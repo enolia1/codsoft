@@ -32,6 +32,11 @@
   cursor: pointer;
   margin: 10px;
 }
+h1 {
+  text-align: center;
+  background-color: #c8f0e8;
+  text-shadow: #3a4452;
+}
 form .display {
   display: flex;
   justify-content: flex-end;
@@ -48,4 +53,7 @@ form input.equal {
 }
 form input.operator {
   color: #33ffd8;
+}
+body {
+  background: #e3f9ff;
 }
